@@ -36,11 +36,9 @@ cd LauncherDatSource
 python cli_launcher.py
 ```
 
-Atau gunakan versi prebuilt:
+Atau gunakan versi prebuilt yang bisa didownload di:
 
-```bash
-MalieDataDatArch\Malie_UnRePacker_Tool_CLI.exe
-```
+**[Releases v1.0 → Malie_UnRePacker_Tool_CLI.exe](https://github.com/Jannabie/MalieToolKit/releases/tag/v1.0)**
 
 ### Menu CLI
 
