@@ -241,7 +241,7 @@ Toolkit ini diuji pada:
 
 **Screenshot hasil terjemahan:**
 
-| Hasil |
+| Soushuu Senshinkan Gakuen: Hachimyoujin (相州戦神館學園 八命陣) |
 |:---:|
 | ![Translation working in-game](https://i.imgur.com/WLKLpyp.jpeg) |
 
