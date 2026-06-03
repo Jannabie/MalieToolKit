@@ -5,7 +5,7 @@ A collection of tools for extracting, editing, and repacking resources from game
 > Tested on: **Soushuu Senshinkan Gakuen: Hachimyoujin** (相州戦神館學園 八命陣)
 
 > **NOTE: Untuk Kajiri Kamui Kagura (神咒神威神楽 / KKK):** Game ini memiliki toolkit **eksklusif tersendiri** karena perbedaan struktur arsip dan format script-nya yang unik dibanding game Malie lainnya.
-> Gunakan repo khusus berikut: **[MalieKit — KKK Exclusive Toolkit](https://github.com/Jannabie/MalieKit)**
+> Gunakan repo khusus berikut: **[MalieKit — KKK Exclusive Toolkit]([https://github.com/Jannabie/MalieKit](https://github.com/Jannabie/KKK))**
 
 ---
 
