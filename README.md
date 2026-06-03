@@ -237,7 +237,7 @@ Toolkit ini diuji pada:
 ---
 
 > 🎮 **Kajiri Kamui Kagura (神咒神威神楽 / KKK)** tidak diuji di toolkit ini — KKK memiliki **toolkit eksklusif** di repo terpisah karena keunikan struktur arsip dan script-nya.
-> → **[MalieKit — KKK Exclusive Toolkit](https://github.com/Jannabie/MalieKit)**
+> → **[MalieKit — KKK Exclusive Toolkit](https://github.com/Jannabie/KKK)**
 
 **Screenshot hasil terjemahan:**
 
