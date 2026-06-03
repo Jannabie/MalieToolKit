@@ -11,7 +11,6 @@ A collection of tools for extracting, editing, and repacking resources from game
 | Folder | Isi | Keterangan |
 |---|---|---|
 | `LauncherDatSource/` | Source Python CLI | UnPacker / RePacker `.dat` / `.lib` |
-| `MalieDataDatArch/` | `Malie_UnRePacker_Tool_CLI.exe` | Versi prebuilt CLI |
 | `MalieExScSource/` | Source C# Script Tool | Extract & repack script dialog |
 | `MalieScriptExtractor/` | `Malie_Script_Tool.exe` | Versi prebuilt script tool |
 
@@ -236,17 +235,9 @@ Toolkit ini diuji pada:
 
 **Screenshot hasil terjemahan:**
 
-<p align="center">
-  <table align="center">
-    <tr>
-      <td align="center">
-        <img src="https://i.imgur.com/WLKLpyp.jpeg" width="600"/>
-        <br/>
-        <em>Hasil terjemahan pada Soushuu Senshinkan Gakuen: Hachimyoujin (相州戦神館學園 八命陣)</em>
-      </td>
-    </tr>
-  </table>
-</p>
+| Hasil |
+|:---:|
+| ![Translation working in-game](https://i.imgur.com/WLKLpyp.jpeg) |
 
 ---
 
